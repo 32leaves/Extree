@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extree/Main.cs">
+    <Files>
+      <File FileName="Extree/Main.cs" Line="52" Column="24" />
+      <File FileName="Extree/Color.cs" Line="26" Column="32" />
+      <File FileName="Extree/Commands/SetColorsCommand.cs" Line="37" Column="116" />
+      <File FileName="Extree/Commands/AllOffCommand.cs" Line="9" Column="30" />
+      <File FileName="Extree/Commands/SetColorCommand.cs" Line="26" Column="22" />
+      <File FileName="Extree/Commands/AbstractExecutorCommand.cs" Line="7" Column="3" />
+      <File FileName="Extree/Commands/CommandExecutor.cs" Line="36" Column="59" />
+      <File FileName="Extree/Commands/CommandParser.cs" Line="20" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/blacki/Dropbox/Projects/Extree/01_Client/Extree/Extree/Main.cs" line="54" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Extree>
+    <MonoDevelop.Ide.CustomExecutionModes>
+      <Data Name="Set Color" Id="aecb574b-d02f-4efb-a0ae-877f8a96ca7a" ModeId="Default">
+        <CommandData>
+          <Item Key="MonoDevelop.Ide.Execution.CustomArgsCustomizer">
+            <Value Arguments=" -p /dev/ttyUSB0 -c &quot;color 1 #faf200&quot;" ctype="CustomArgsExecutionModeData">
+              <EnvironmentVariables />
+            </Value>
+          </Item>
+          <Item Key="MonoDevelop.Ide.Execution.MonoExecutionCustomizer">
+            <Value ctype="MonoExecutionParameters" />
+          </Item>
+        </CommandData>
+      </Data>
+    </MonoDevelop.Ide.CustomExecutionModes>
+  </MonoDevelop.Ide.ItemProperties.Extree>
+</Properties>
